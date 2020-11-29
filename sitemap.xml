@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zzk31.320.io/404.html</loc>
+    <loc>https://zzk31.320.io/categories/index.html</loc>
     
     <lastmod>2020-11-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zzk31.320.io/about/index.html</loc>
+    <loc>https://zzk31.320.io/tags/index.html</loc>
+    
+    <lastmod>2020-11-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzk31.320.io/2020/11/29/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-NexT%E4%B8%BB%E9%A2%98/</loc>
     
     <lastmod>2020-11-29</lastmod>
     
@@ -23,7 +30,14 @@
   </url>
   
   <url>
-    <loc>https://zzk31.320.io/2020/11/29/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-NexT%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://zzk31.320.io/404.html</loc>
+    
+    <lastmod>2020-11-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzk31.320.io/about/index.html</loc>
     
     <lastmod>2020-11-29</lastmod>
     
